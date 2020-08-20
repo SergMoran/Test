@@ -1,2 +1,2 @@
 "#%%"
-print("Privet Vasya")
+print("Hello world")
